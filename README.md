@@ -11,7 +11,7 @@ The industry average salary across all roles and all companies.
 
 ## REQUIREMENT
 A project required by Codecademy to complete by helping Message Mixer Inc. extract and isolate its encryption functions into a module, called encryptors.js, and then refactor message-mixer.js to use this module’s functions.
-* Read More:  https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-part-iii/modules/fscp-learn-javascript-syntax-modules/projects/message-mixer-node
+* Read More:   https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-part-iii/modules/fscp-learn-javascript-syntax-modules/projects/message-mixer-node
 
 
 ## Technologies
